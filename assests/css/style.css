@@ -1,0 +1,13 @@
+#buttons {
+    padding: 0px;
+    width: 150px;
+    height: 150 px;
+}
+
+#extraSpacing {
+    padding: 15px;
+}
+
+#background {
+    fill-opacity: inherit;
+}
