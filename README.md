@@ -1,1 +1,2 @@
 # unit-4-game
+By using HTML, CSS, and JavaScript I have designed a game 'Crystal Collecter Game.' In this game I have created 4 buttons (crystals) where they are assigned different values in each game. In each game you have to figure out what the the value of each button is and get it to add up to the 'Match Number' displayed on the screen. If you equal the number you win! However, if you go over the match number you lose. You can keep track of the amount of wins and losses at the bottom of the screen! 

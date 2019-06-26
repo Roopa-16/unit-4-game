@@ -107,14 +107,14 @@
 			console.log(totalScore);
 			$("#totalNumber").html(totalScore);
 			$("#wins").html("Wins: " + wins);
-			setTimeout(function() {gameReset("YOU WIN!!! Do you think you can do it again?")}, 1000);
+			setTimeout(function() {gameReset("YOU WON!!! Do you think you can do it again?")}, 50);
 		}
 
 		else if (totalScore > randNumber){
 			losses++;
 			$("#totalNumber").html(totalScore);
 			$("#losses").html("Losses: " + losses);
-			setTimeout(function() {gameReset("YOU LOST!!! Try again")}, 1000);
+			setTimeout(function() {gameReset("YOU LOST!!! Try again")}, 50);
 		}
 	});
 
